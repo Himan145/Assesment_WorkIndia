@@ -12,3 +12,5 @@
 step1- create a database in MySQL workbench locally
 
 step2- run sql code in workbench to create required table/schema
+
+//api input-output format - json
