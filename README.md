@@ -8,5 +8,7 @@
 //run command - "nodemon"
 
 //database creation- 
+
 step1- create a database in MySQL workbench locally
-stemp2- run sql code in workbench to create required table/schema
+
+step2- run sql code in workbench to create required table/schema
